@@ -10,14 +10,14 @@ h1 {
     font-size: 2rem;
     text-transform: uppercase;
     margin-top: 100px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 
 a {
     color: #000;
     font-weight: 800;
     text-decoration: none;
-}x
+}
 
 /* layout ----------------------------------------------------------------- */
 
@@ -40,6 +40,23 @@ a {
     display: block;
     width: 80%;
     margin: auto;
+}
+
+/* footer ---------------------------------------------------------------- */
+
+.footer {
+    background-color: #000;
+    color: #fff;
+    font-family: 'Press Start 2P';
+    font-size: .5em;
+    height: 100px;
+    margin-top: 100px;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.footer img {
+    width: 15px;
 }
 
 /* special effects! ------------------------------------------------------ */
