@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Inconsolata', 'Courier New', Courier, monospace;
-    font-size: .8rem;
+    font-size: 1rem;
     font-weight: 300;
     line-height: 1.5;
 }
@@ -67,10 +67,11 @@ a {
     font-family: 'Press Start 2P';
 }
 
-/* about ---------------------------------------------------------------- */
 
-.about {
-    font-size: 1rem;
+/* skills ---------------------------------------------------------------- */
+
+.skills {
+    margin-top: 50px;
 }
 
 /* footer ---------------------------------------------------------------- */
