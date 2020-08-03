@@ -98,31 +98,23 @@ a {
 }
 
 .fa-html5 {
-    background-image: linear-gradient(90deg, #F79533, #F37055);
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
+    color: #F37055 ;
 }
 
-.fa-css3 {
-    background-image: linear-gradient(90deg, #5073B8, #1098AD);
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
+.fa-css3-alt {
+    color: #1098AD;
 }
 
 .fa-js {
-    background-image: linear-gradient(90deg, #F1C40F, #F79533);
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
+    color: #F1C40F;
 }
 
 .fa-git {
-    background-image: linear-gradient(90deg, #f14e32, #F37055);
-    background-clip: text;
-    -webkit-background-clip: text;
-    color: transparent;
+    color: #f14e32;
+}
+
+.fa-node-js {
+    color: #6DBA82;
 }
 /* special effects! ------------------------------------------------------ */
 
